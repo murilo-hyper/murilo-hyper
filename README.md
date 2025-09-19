@@ -49,8 +49,8 @@
 
 ### 📫 Contato
 
-<a href="mailto:seu-email@aqui.com"><img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<!-- <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
+<a href="mailto:msoliveira2704@gmail.com"><img src="https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muriloliveira1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 <div align="center">
   
